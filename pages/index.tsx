@@ -45,19 +45,19 @@ export default function Home() {
 
   const columns = [
     {
-      key: "name",
+      key: "rzr-usdc",
       label: "NAME",
     },
     {
-      key: "market",
+      key: "3QezJAVRBtLkY7JevtJ5FRHqmDv7NR16Extb6bDrTJ4s",
       label: "Pubkey",
     },
     {
-      key: "baseMint",
+      key: "RZRyr758BfvKcQTVp1XQoCe9BH2t724XQkLJkiikQ5f",
       label: "Base Mint",
     },
     {
-      key: "quoteMint",
+      key: "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       label: "Quote Mint",
     },
   ];
